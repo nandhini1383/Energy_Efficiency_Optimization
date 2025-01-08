@@ -1,3 +1,4 @@
+##Submitted by KARTHIKEYAN R GOWSALYA K LATHIKA S MAHALAKSHMI M College Name : THENI KAMMAVAR SANGAM COLLEGE OF TECHNOLOGY ##
 # Energy Efficiency Optimization using Neural Networks
 > This study looked into assessing the heating load and cooling load requirements of buildings (that is, energy efficiency) as a function of building parameters.
 The project was done as part of Machine Learning class at the University of Texas at Dallas.
